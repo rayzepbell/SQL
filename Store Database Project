@@ -1,1 +1,37 @@
-https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/4718877010870272
+/**Book List:
+harry potter (7)
+hunger games (4)
+maze runner (10)
+lord of the rings (3)
+the witcher (5)
+diary of a wimpy kid (19)
+transformers (6)
+divergent (4)
+percy jackson (7)
+game of thrones (8)
+the hobbit (2)
+star wars (381)
+twilight (4)
+fifty shades (6)
+after (9)
+**/
+CREATE TABLE books (id INTEGER PRIMARY KEY, name TEXT, quantity INTEGER);
+
+INSERT INTO books VALUES (1, "harry potter", 7);
+INSERT INTO books VALUES (2, "hunger games", 4);
+INSERT INTO books VALUES (3, "maze runner", 10);
+INSERT INTO books VALUES (4, "lord of the rings", 3);
+INSERT INTO books VALUES (5, "the witcher", 5);
+INSERT INTO books VALUES (6, "diary of a wimpy kid", 19);
+INSERT INTO books VALUES (7, "transformers", 6);
+INSERT INTO books VALUES (8, "divergent", 4);
+INSERT INTO books VALUES (9, "percy jackson", 7);
+INSERT INTO books VALUES (10, "game of thrones", 8);
+INSERT INTO books VALUES (11, "the hobbit", 2);
+INSERT INTO books VALUES (12, "star wars", 381);
+INSERT INTO books VALUES (13, "twilight", 4);
+INSERT INTO books VALUES (14, "fifty shades", 6);
+INSERT INTO books VALUES (15, "after", 9)
+
+;SELECT * FROM books;
+SELECT * FROM books WHERE name > 5 ORDER BY quantity
