@@ -1,0 +1,25 @@
+#In this SQL code, I'm querying a database that's holding Nexflix data to answer questions about the data. 
+
+#1. How many movie titles are there in the database? (movies only, not tv shows) 
+6131
+
+#2. When was the most recent batch of tv shows and/or movies added to the database? 
+2021-09-25
+
+#3. List all the movies and tv shows in alphabetical order. 
+#Alive
+#AnneFrank - Parallel Stories
+#FriendButMarried
+#FriendButMarried 2
+#Roxy
+#Rucker50
+#Selfie
+#Selfie 69
+#blackAF
+#cats_the_mewvie
+
+#4. Who was the Director for the movie Bright Star? 
+Jane Campion
+
+#5. What is the oldest movie in the database and what year was it made? 
+Prelude to War (1942) & The Battle of Midway (1942)
