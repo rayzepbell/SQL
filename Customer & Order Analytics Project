@@ -1,0 +1,48 @@
+#1. How many orders were placed in January?
+9681
+
+#2. How many of those orders were for an iPhone? 
+379
+
+#3. Select the customer account numbers for all the orders that were placed in February.
+40161414
+54428584
+59221952
+88742323
+78191203
+74990905
+52970206
+30785465
+53139396
+28100900
+
+#4. Which product was the cheapest one sold in January, and what was the price?
+AAA Batteries (4-pack)	2.99
+
+#5. What is the total revenue for each product sold in January?
+23647.85	20in Monitor
+121676.88	27in 4K Gaming Monitor
+62845.810000000005	27in FHD Monitor
+119316.86	34in Ultrawide Monitor
+5472	AA Batteries (4-pack)
+4772.04	AAA Batteries (4-pack)
+122100	Apple Airpods Headphones
+65893.41	Bose SoundSport Headphones
+72900	Flatscreen TV
+190800	Google Phone
+23400	LG Dryer
+25200	LG Washing Machine
+17207.45	Lightning Charging Cable
+399500	Macbook Pro Laptop
+216997.83000000002	ThinkPad Laptop
+15343.8	USB-C Charging Cable
+50000	Vareebadd Phone
+12961.19	Wired Headphones
+265300	iPhone
+
+#6. Which products were sold in February at 548 Lincoln St, Seattle, WA 98101, how many of each were sold, and what was the total revenue?
+2	AA Batteries (4-pack)	7.68
+
+#7. How many customers ordered more than 2 products at a time, and what was the average amount spent for those customers? 
+select 
+278	13.82794964028773
