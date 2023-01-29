@@ -67,3 +67,23 @@ USB-C Charging Cable	271
 Vareebadd Phone	25
 Wired Headphones	191
 iPhone	71
+
+#1. Which locations in New York received at least 3 orders in January, and how many orders did they each receive? 
+148 Elm St, New York City, NY 10001	3
+515 Lincoln St, New York City, NY 10001	3
+916 Pine St, New York City, NY 10001	3
+961 Jefferson St, New York City, NY 10001	4
+
+#2. How many of each type of headphone were sold in February?
+1013	Apple Airpods Headphones
+844	Bose SoundSport Headphones
+1282	Wired Headphones
+
+#3. What was the average amount spent per account in February?
+190.00034676304287
+
+#4. What was the average quantity of products purchased per account in February?
+1
+
+#5. Which product brought in the most revenue in January and how much revenue did it bring in total? 
+Macbook Pro Laptop	399500
