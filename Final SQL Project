@@ -46,7 +46,6 @@ GROUP BY artist.artist_id
 ORDER BY number_of_songs DESC
 LIMIT 10;
 
-
 SELECT artist.artist_id AS artist_id,artist.name AS artist_name,SUM(invoiceline.unit_price*invoiceline.quantity) AS total_sales
 FROM invoiceline
 JOIN track ON track.track_id = invoiceline.track_id
