@@ -1,4 +1,3 @@
-
 SELECT billing_country,COUNT(billing_country) AS Invoice_Number
 FROM invoice
 GROUP BY billing_country
